@@ -2,7 +2,7 @@
 The ID Graph proposal transforms the Endless Browser from a simple data query tool into an on-chain identity discovery and trust assessment platform. By visualizing an address's reputation, achievements, and relationship network, it addresses one of the biggest challenges in Web3—establishing a trusted identity system.
 
 # 1. 克隆代码库
-git clone [https://github.com/yourusername/endless-ai-browser-demo.git](https://github.com/UI-212/Endless-ID-Graph.git)
+git clone https://github.com/UI-212/Endless-ID-Graph.git
 cd endless-ai-browser-demo
 
 # 2. 安装依赖
